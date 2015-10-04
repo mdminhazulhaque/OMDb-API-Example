@@ -4,11 +4,6 @@
 # Author: Md. Minhazul Haque
 # URL: https://minhazulhaque.com
 
-"""
-This script reads name and year info of movies, and finds out the Genre of those movies
-Prints Unknown if no movie found
-"""
-
 import json
 import requests
 import re
